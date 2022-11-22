@@ -35,4 +35,8 @@ var allSubjects = {
         "Livsstilssygdomme", "Epidemier", "Radioaktivitet", "Kønssygdomme", 
         "Nikotin"
     ],
+
+    Erhvervsøkonomi: [
+        "Innovation", "Invention", "Start-up", "Regnskab", "Virksomhedsanalyse", "Lederformer"
+    ],
 }
