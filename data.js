@@ -1,15 +1,15 @@
 var allSubjects = {
     Informatik: [
-        "funktioner", "animationer", "IT-sikkerhed", "Hackere", 
-        "Sociale Medier", "Robot teknologi", "Talsystemer", "Kodesprog", 
+        "Funktioner", "Animationer", "IT-sikkerhed", "Hackere", 
+        "Sociale Medier", "Robotteknologi", "Talsystemer", "Kodesprog", 
         "Computeren", "Kryptering", "Cloud/Database/Datalagring", "Programering"
     ],
 
     Matematik: [
-        "differentialligninger", "vektorer i rummet", "Matrix", "Statestik",
-        "Sandsynlighedsregning", "Vector funktioner", "Intergralrening", 
-        "Trigonomitriske funktioner", "Differentialregning", "Matematiske modeller",
-        "Matematik i historien(græsk, egypten)", "Historiens matematikere"
+        "Differentialligninger", "Vektorer i rummet", "Matrix", "Statestik",
+        "Sandsynlighedsregning", "Vektor funktioner", "Integralregning", 
+        "Trigonometriske funktioner", "Differentialregning", "Matematiske modeller",
+        "Matematik i historien (grækenland, egypten)", "Historiens matematikere"
     ],
 
     Samfundsfag: [
@@ -18,21 +18,21 @@ var allSubjects = {
     ],
 
     Engelsk: [
-        "Retorik", "New Zealand", "Africa", "Post-modernisme", 
+        "Retorik", "New Zealand", "Afrika", "Post-modernisme", 
         "Dystopi", "Victorian age", "Shakespeare", "Nordamerika's historie", 
         "Racisme", "Horror"
     ],
 
     Fysik: [
-        "Relativitetsteori", "harmoniske svinginer", "varme energi", 
-        "aerodynamik", "exoplaneter", "Atomkraft", "Mekanik", "banekurver", "Bølger", 
+        "Relativitetsteori", "Harmoniske svingninger", "Varmeenergi", 
+        "Aerodynamik", "exoplaneter", "Atomkraft", "Mekanik", "Banekurver", "Bølger", 
         "GPS-systemer", "Ellære", "Radioaktivitet", "Mørkt stof", "Kvantemekanik", 
         "Tyngdekraft", "Intertimomenter", "Vedvarende energi", "Raketfysik"
     ],
 
     Bioteknologi: [
-        "Cloning", "Nanoteknologi", "Genmodifikation", "Kræftceller", 
-        "Livstilssygdomme", "Epidemier", "radioaktivitet", "Kønssygdomme", 
+        "Kloning", "Nanoteknologi", "Genmodifikation", "Kræftceller", 
+        "Livsstilssygdomme", "Epidemier", "Radioaktivitet", "Kønssygdomme", 
         "Nikotin"
     ],
 }
