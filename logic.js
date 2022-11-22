@@ -51,6 +51,6 @@ function randomSubjects(disciplinePair, allSubjects) {
  */
 function makePrompt(disciplinePair, subjectPair) {
     return "Første fag er: " + disciplinePair[0] + ". Emnet er: " + subjectPair[0] 
-        + ". Andet fag er: " + disciplinePair[1] + ". Emnet er: " + subjectPair[1];
+        + "Andet fag er: " + disciplinePair[1] + ". Emnet er: " + subjectPair[1];
 }
 
