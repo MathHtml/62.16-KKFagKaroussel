@@ -13,7 +13,8 @@ var allSubjects = {
     ],
 
     Samfundsfag: [
-        "Dansk polotik", "International politik", "Økonomi"
+        "Dansk politik", "International politik", "Økonomi", "Sociologi",
+         "Demokrati", "Økonomiske fremskrivningsmodeller", "Magt og medier"
     ],
 
     Engelsk: [
